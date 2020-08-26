@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - hero
+  - sword
+  - enemyball
+  - TakaraBako
+  - MasterSword
+  - Boss
+  - BossBall
+  - death
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: map
+    uniqueID: 3614363301
+    locked: 0
+  - name: tree
+    uniqueID: 3793955093
+    locked: 0
+  - name: character
+    uniqueID: 867321487
+    locked: 0
+  - name: weapon
+    uniqueID: 2139675293
+    locked: 0
+  - name: enemy
+    uniqueID: 3087477577
+    locked: 0
+  - name: enemyball
+    uniqueID: 2734985735
+    locked: 0
+  - name: BossBall
+    uniqueID: 3763758001
+    locked: 0
